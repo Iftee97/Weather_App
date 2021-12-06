@@ -1,4 +1,4 @@
-# Weather_App
+# Weather_App (toy app)
 Simple Weather App made using HTML, CSS (Bootstrap) and JavaScript
 
 hosted:
